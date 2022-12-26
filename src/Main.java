@@ -88,5 +88,6 @@ public class Main {
         }
         else
             System.out.println("Число два большее");
+
     }
 }
